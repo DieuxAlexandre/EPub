@@ -1,0 +1,8 @@
+e_pub_e_pub:
+    resource: "@EPubEPubBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
